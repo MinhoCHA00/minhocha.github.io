@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/minhoCHA/minhocha.github.io.git/static/css/main.1a64de0b.css",
+    "main.js": "/minhoCHA/minhocha.github.io.git/static/js/main.69035391.js",
+    "static/media/Robot_Logo.png": "/minhoCHA/minhocha.github.io.git/static/media/Robot_Logo.185feb495505fb0d8535.png",
+    "index.html": "/minhoCHA/minhocha.github.io.git/index.html",
+    "main.1a64de0b.css.map": "/minhoCHA/minhocha.github.io.git/static/css/main.1a64de0b.css.map",
+    "main.69035391.js.map": "/minhoCHA/minhocha.github.io.git/static/js/main.69035391.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a64de0b.css",
+    "static/js/main.69035391.js"
+  ]
+}
